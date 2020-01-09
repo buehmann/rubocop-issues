@@ -1,0 +1,4 @@
+inherit_from: shared/.rubocop.yml
+
+RSpec:
+  Enabled: false
